@@ -5,7 +5,7 @@ body {
 
 /* Header styles */
 header {
-    background-image: url('https://via.placeholder.com/1600x500'); /* Replace with a hero image */
+    background-image: url('banner.jpg'); /* Replace with a hero image */
     background-size: cover;
     background-position: center;
 }
