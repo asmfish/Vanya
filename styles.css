@@ -1,0 +1,43 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+    background-image: url('https://via.placeholder.com/1600x500'); /* Replace with a hero image */
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+/* Card hover effect */
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Footer styles */
+footer {
+    font-size: 1rem;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
